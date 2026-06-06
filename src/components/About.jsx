@@ -1,4 +1,3 @@
-import React from 'react';
 import stackImage from '../assets/about/image.png';
 import reactImage from '../assets/about/react.png';
 import nodeImage from '../assets/about/node.png';
@@ -42,8 +41,9 @@ const About = () => {
           
           <h2 className="text-4xl md:text-5xl font-black text-black mb-4">Hello!</h2>
           <p className="text-lg font-bold mb-12 leading-relaxed max-w-3xl text-red-50">
-            Hi, my name is <span className="text-black text-xl font-black mx-1 tracking-wide uppercase">Leeshark</span>, a passionate full-stack developer based in [Location], dedicated to crafting clean, functional, and highly scalable web applications.
-          </p>
+            Hi, my name is <span className="text-black text-xl font-black mx-1 tracking-wide uppercase">Aman Kumar</span>,full-stack web-developer and aspiring software engineer.
+           based in [Pune], dedicated to crafting clean, functional, and highly scalable web applications with AI ML integration.
+           </p>
 
           {/* Horizontal Skills Row (Transparent & Large) */}
           <div className="flex items-center gap-10 mt-8">
