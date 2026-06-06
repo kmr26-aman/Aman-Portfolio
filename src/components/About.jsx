@@ -1,4 +1,4 @@
-import stackImage from '../assets/about/image.png';
+import stackImage from '../assets/about/image.jpg';
 import reactImage from '../assets/about/react.png';
 import nodeImage from '../assets/about/node.png';
 import mongoImage from '../assets/about/mongodb.png';
